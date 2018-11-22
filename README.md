@@ -1,6 +1,8 @@
 install
 --------
-npm install dgz-rn-pull-to-refresh --save
+npm install dgz-rn-filter  
+npm i dgz-rn-utilities  
+npm install --registry=http://cnpm.58v5.cn/
 
 ------
 base usage
