@@ -1,7 +1,7 @@
 install
 --------
-npm install dgz-rn-filter  
-npm i dgz-rn-utilities  
+npm i filter-dugz  
+npm i utilities-dugz  
 npm install --registry=http://cnpm.58v5.cn/
 
 ------
